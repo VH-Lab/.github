@@ -1,0 +1,9 @@
+{
+    "name": "VH-Lab's Code Analyser Workflow",
+    "description": "Code analyser workflow template for VH-Lab.",
+    "iconName": "octicon codescan",
+    "categories": [
+        "code-quality",
+        "MATLAB"
+    ]
+}

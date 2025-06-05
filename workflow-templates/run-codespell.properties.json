@@ -1,0 +1,9 @@
+{
+    "name": "VH-Lab's Codespell Workflow",
+    "description": "Codespell workflow template for VH-Lab.",
+    "iconName": "octicon pencil",
+    "categories": [
+        "code-quality",
+        "MATLAB"
+    ]
+}
