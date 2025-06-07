@@ -1,6 +1,6 @@
 {
-    "name": "VH-Lab's Test Workflow",
-    "description": "Test workflow template for VH-Lab.",
+    "name": "Test Workflow",
+    "description": "Test and check MATLAB code, upload coverage report to codecov and code issues report to GitHub.",
     "iconName": "octicon codescan-checkmark",
     "categories": [
         "testing",

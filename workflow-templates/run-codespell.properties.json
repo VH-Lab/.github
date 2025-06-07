@@ -1,9 +1,8 @@
 {
-    "name": "VH-Lab's Codespell Workflow",
-    "description": "Codespell workflow template for VH-Lab.",
+    "name": "Codespell Workflow",
+    "description": "Check code for common misspellings using Codespell",
     "iconName": "octicon pencil",
     "categories": [
-        "code-quality",
-        "MATLAB"
+        "code-quality"
     ]
 }
